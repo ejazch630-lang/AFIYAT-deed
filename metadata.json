@@ -1,0 +1,8 @@
+{
+  "name": "Remix Afiyat Welfare",
+  "description": "Afiyat Welfare is a humanitarian NGO led by Sawera Ejaz, dedicated to transforming lives through Education, Free Healthcare, and Winter Warmth relief packs in Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
